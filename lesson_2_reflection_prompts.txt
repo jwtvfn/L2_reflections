@@ -5,9 +5,10 @@ What happens when you initialize a repository? Why do you need to do it?
  It is necessary if you want to track changes and be able to view the history and move between some points in the history.
  
 How is the staging area different from the working directory and the repository?
-What value do you think it offers?
-Staging area is helping to choose what changes (changed files) will be included into commit.
-In other words by adding files to staging area we can decine which files from working directory will be included to repository.
+
+ What value do you think it offers?
+ Staging area is helping to choose what changes (changed files) will be included into commit.
+ In other words by adding files to staging area we can decine which files from working directory will be included to repository.
 
 
 How can you use the staging area to make sure you have one commit per logical
