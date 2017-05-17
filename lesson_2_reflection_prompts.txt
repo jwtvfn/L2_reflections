@@ -13,8 +13,10 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
- 
+	
+ 	I can add to the staging area only files that contain changes related to the logical change I want to commit.
+ 	e.g. If i have 3 files and all three were changed, but changes made in only 2 of them are referring to the logical change, I can add only those 2 files and make a commit.
+ 	Changes made in the 3rd file won't be discarded adnd the file will still remain in working directory. This file can be added to the staging area in next step and committed after that.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
