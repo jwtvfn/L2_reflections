@@ -33,4 +33,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You want to to do some experimental thing and don't worry to mess up in master.
+    you want to start towork on some new project of project family and keep tracking master branch and be open for updating and cherry picking.
